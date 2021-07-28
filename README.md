@@ -1,11 +1,11 @@
 ### Hello World
 
 
-- 🔭 I’m currently working on many projects 
-- 🌱 I’m currently learning NLP Transformers 
-- 👯 I’m looking to collaborate on Kaggle chalenges 
+- 🔭 I’m currently working on modeling in TensorFlow
+- 🌱 I’m currently learning about NLP Transformers and GPT-3
+- 👯 I’m looking to collaborate on ML projects 
 - 🤔 I’m looking for help with R language
-- 💬 Ask me about anything regarding ML 
+- 💬 Ask me about anything regarding DL/ML 
 
 - 📫 How to reach me: 
   email pravosnazna@gmail.com
