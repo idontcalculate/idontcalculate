@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on modeling in TensorFlow
 - 🌱 I’m currently learning about NLP Transformers and GPT-3
 - 👯 I’m looking to collaborate on ML projects 
-- 🤔 I’m looking for help with R language
+- 🤔 I’m looking for help with R language and PyTorch
 - 💬 Ask me about anything regarding DL/ML 
 
 - 📫 How to reach me: 
