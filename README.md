@@ -1,17 +1,15 @@
 ### Hello World
 
 
-- 🔭 I’m currently working on modeling in TensorFlow
-- 🌱 I’m currently learning about NLP Transformers and GPT-3
-- 👯 I’m looking to collaborate on ML projects 
-- 🤔 I’m looking for help with R language and PyTorch
-- 💬 Ask me about anything regarding DL/ML 
+- 🔭 currently working on modeling HuggingFace transformers with PyTorch. 
+- 🌱 currently learning about NLP Transformers and GPT family of models. 
+- 👯 looking to collaborate on ML projects.
+- 🤔 looking for help with deployment on Streamlit or similar platforms. 
+- 💬 Ask me about anything regarding DL/ML mostly TensorFlow. 
 
 - 📫 How to reach me: 
   email pravosnazna@gmail.com
-  twitter https://twitter.com/iskra_besamrtna
   linkedin https://www.linkedin.com/in/ivavrtaric/ 
-  discord: YesMyLord #0703
   website https://signalism.ml/
 
 🛠  Tech Stack
@@ -44,8 +42,7 @@
 ##Social:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
 
 
