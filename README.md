@@ -1,7 +1,7 @@
 ### Hello World
 
 
-- 🔭 currently modeling HuggingFace Transformers with PyTorch. 
+- 🔭 currently modeling HuggingFace Transformers with TensorFlow
 - 🌱 currently learning about NLP Transformers and GPT family of models. 
 - 👯 looking to collaborate on ML projects.
 - 🤔 looking for help with deployment on Streamlit or similar platforms. 
