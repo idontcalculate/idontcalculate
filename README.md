@@ -8,8 +8,13 @@
 - 💬 Ask me about anything regarding DL/ML mostly TensorFlow. 
 
 - 📫 How to reach me: 
+
   email pravosnazna@gmail.com
+  
+  
   linkedin https://www.linkedin.com/in/ivavrtaric/ 
+  
+  
   website https://signalism.ml/
 
 🛠  Tech Stack
