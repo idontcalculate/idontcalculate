@@ -1,11 +1,11 @@
 ### Hello World
 
 
-- 🔭 currently modeling HuggingFace Transformers with TensorFlow and PyTorch
-- 🌱 currently learning about NLP Transformers and GPT family of models. 
-- 👯 looking to collaborate on ML projects.
-- 🤔 looking for help with deployment on Streamlit or similar platforms. 
-- 💬 Ask me about anything regarding DL/ML mostly TensorFlow. 
+- 🔭 currently working on Computer Vision and Pose Estimation project.
+- 🌱 learning about TensorFlow and preparing for TF certification.
+- 👯 looking for a team for Kaggle compatitions on spare time.  
+- 🤔 asking for help with deployment on Streamlit or Heroku, Cloud and Data Structures.  
+- 💬 Ask me about anything regarding DL/ML/AI 
 
 - 📫 How to reach me: 
 
