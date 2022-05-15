@@ -1,21 +1,15 @@
 ### Hello World
 
 
-- 🔭 currently working on Computer Vision and Pose Estimation project.
-- 🌱 learning about TensorFlow and preparing for TF certification.
-- 👯 looking for a team for Kaggle compatitions on spare time.  
-- 🤔 asking for help with deployment on Streamlit or Heroku, Cloud and Data Structures.  
-- 💬 Ask me about anything regarding DL/ML/AI 
+- 🔭 currently working transformers research /nlp. vector databases /neurosymbolic search, docker/cloud deployment. neural style transfer application/computer vision. 
+- 🌱 writing tech articles on medium publication: https://medium.com/@tensorcist
+- 💬 Ask me about data collection, datasets, model architectures. 
 
 - 📫 How to reach me: 
-
-  email pravosnazna@gmail.com
-  
-  
   linkedin https://www.linkedin.com/in/ivavrtaric/ 
   
   
-  website https://signalism.ml/
+ 
 
 🛠  Tech Stack
 
@@ -45,7 +39,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ##Social:
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
