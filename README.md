@@ -1,12 +1,15 @@
 ### Hello World
 
 
-- 🔭 currently working transformers research /nlp. vector databases /neurosymbolic search, docker/cloud deployment. neural style transfer application/computer vision. 
+- 🔭 mostly transformers research /nlp. vector databases /neurosymbolic search, llms.
 - 🌱 writing tech articles on medium publication: https://medium.com/@tensorcist
-- 💬 Ask me about data collection, datasets, model architectures. 
+- 💫 contributed to the course on 'langchain and vector databases in production': https://learn.activeloop.ai/courses/langchain
+- 🎇 currently working on the 2nd-course materials: 'training and fine-tuning llms for production' @ Towards.AI
+- 💢 i'm learning about knowledge graphs, gnns. 
+- 💬 Ask me about NLP, LLMs, generative models, and architectures.
 
 - 📫 How to reach me: 
-  linkedin https://www.linkedin.com/in/ivavrtaric/ 
+  LinkedIn https://www.linkedin.com/in/ivavrtaric/ 
   
   
  
@@ -28,7 +31,7 @@
 ![PyTorch](https//img.shields.io/badge/PyTorch)
 
 
-##Frameworks, Platforms and Libraries:
+##Frameworks, Platforms, and Libraries:
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ##Design:
