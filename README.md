@@ -1,27 +1,34 @@
 ### Hello World
 
 
-- 🔭 mostly transformers research /nlp. vector databases /neurosymbolic search, llms.
+- 🔭 nlp research: vector databases / rag, llms, system design, fine-tuning, optimization, deployment. 
 - 🌱 writing tech articles on medium publication: https://medium.com/@tensorcist
-- 💫 contributed to the course on 'langchain and vector databases in production': https://learn.activeloop.ai/courses/langchain
-- 🎇 currently working on the 2nd-course materials: 'training and fine-tuning llms for production' @ Towards.AI
-- 💢 i'm learning about knowledge graphs, gnns. 
-- 💬 Ask me about NLP, LLMs, generative models, and architectures.
+- 💫 writing educational content @ Towards.AI : 'langchain and vector databases in production': https://learn.activeloop.ai/courses/langchain
+- 🎇 the 2nd course: 'training and fine-tuning llms for production' with @ Towards.AI team: https://learn.activeloop.ai/courses/llms
+- 💢 specializing in RAG systems, currently working with LlamaIndex, information retrieval, agents & tools, and OpenAI functions and AssistantAPIs.
+- 💬 Ask me about NLP in general, LLMs & RAG, gen-ai systems, architectures, design patterns & best practices.
 
 - 📫 How to reach me: 
-  LinkedIn https://www.linkedin.com/in/ivavrtaric/ 
+  LinkedIn: https://www.linkedin.com/in/ivavrtaric/
+  Gmail: pravosnazna@gmail.com
   
-  
- 
 
 🛠  Tech Stack
+
+## tools & frameworks
+![LangChain](https://www.langchain.com/)
+![LlamaIndex](https://www.llamaindex.ai/)
+![Activeloop](https://www.activeloop.ai/)
+![OpenaAI](https://openai.com/)
+![HuggingFace](https://huggingface.co/)
+and more :)
 
 ##Programming Language:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-##ML/DL:
+##ML/DL modules:
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -30,24 +37,6 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![PyTorch](https//img.shields.io/badge/PyTorch)
 
-
-##Frameworks, Platforms, and Libraries:
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-##Design:
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-##IDEs/Editors:
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
 ##Social:
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-
-
-
