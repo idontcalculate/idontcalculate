@@ -1,15 +1,18 @@
-### Hello World
+### Hello World !
 
-
+ I'm system designer & ai researcher and technical writer 
 - 🔭 nlp research: vector databases / rag, llms, system design, fine-tuning, optimization, deployment. 
 - 🌱 writing tech articles on medium publication: https://medium.com/@tensorcist
 - 💫 writing educational content @ Towards.AI : 'langchain and vector databases in production': https://learn.activeloop.ai/courses/langchain
 - 🎇 the 2nd course: 'training and fine-tuning llms for production' with @ Towards.AI team: https://learn.activeloop.ai/courses/llms
-- 💢 specializing in RAG systems, currently working with LlamaIndex, information retrieval, agents & tools, and OpenAI functions and AssistantAPIs.
-- 💬 Ask me about NLP in general, LLMs & RAG, gen-ai systems, architectures, design patterns & best practices.
+- 💢 expert in RAG systems, bulding query engines, search engines, exploring assistants, agents & tools.
+
+  -> currently learning Rust language
+  -> exploring Jaguar VectorStore
+
 
 - 📫 How to reach me: 
-  LinkedIn: https://www.linkedin.com/in/ivavrtaric/
+  [LinkedIn: https://www.linkedin.com/in/ivavrtaric/](https://www.linkedin.com/in/teslainstitute/)
   Gmail: pravosnazna@gmail.com
   
 
