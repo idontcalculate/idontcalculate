@@ -1,5 +1,6 @@
-I’m a System Designer, AI Researcher, and Technical Writer specializing in advanced technology and system architecture.
+Hello World! 
 
+I’m a System Designer, AI Researcher, and Technical Writer
 ### Research Focus:
 - Natural Language Processing (NLP)
 - Vector Databases and Retrieval-Augmented Generation (RAG)
