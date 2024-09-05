@@ -12,7 +12,6 @@
 
 
 - 📫 How to reach me: 
-  [LinkedIn: https://www.linkedin.com/in/ivavrtaric/](https://www.linkedin.com/in/teslainstitute/)
   Gmail: pravosnazna@gmail.com
   
 
