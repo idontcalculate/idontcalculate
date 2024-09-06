@@ -22,7 +22,7 @@ I’m a System Designer, AI Researcher, and Technical Writer
 ### Current Endeavors:
 - Learning Rust programming language
 - Exploring [Oxen-ai](https://docs.oxen.ai/getting-started/intro#oxen-101) 
-- Working on [Recommendation search engine](https://www.oxen.ai/tensorpusher/survey-data-repo)
+- Working on System Architecture design [Recommendation search engine](https://get-out.info)
 
 ### Contact:
 - Email: [pravosnazna@gmail.com](mailto:pravosnazna@gmail.com)
