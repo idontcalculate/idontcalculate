@@ -16,8 +16,8 @@ I’m a System Designer, AI Researcher, and Technical Writer
 
 ### Expertise:
 - Retrieval-Augmented Generation (RAG) Systems
-- Building Query Engines and Search Engines
-- Developing Assistants, Agents, and Tools
+- Recommendation Systems and Search Engines
+- Vector Databases, Knowledge Graph Databases
 
 ### Current Endeavors:
 - Learning Rust
