@@ -32,7 +32,7 @@ I’m a **System Designer**, **AI Researcher**, and **Technical Writer** with a 
 - **Learning Rust**: Exploring Rust for high-performance system architecture.
 - **System Architecture Design**: Building a [recommendation search engine](https://get-out.info).
 - **Solarpunk Platform**: Developing [Solar-Station](https://solar-terminal.glitch.me) as an eco-conscious, P2P encrypted platform.
-- **Ethereum Experimentation**: DEthereum and blockchain integration.
+- **Ethereum Experimentation**: Ethereum and blockchain integrations within 'Solar-station'.
 
 ---
 
