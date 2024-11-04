@@ -20,9 +20,9 @@ I’m a System Designer, AI Researcher, and Technical Writer
 - Developing Assistants, Agents, and Tools
 
 ### Current Endeavors:
-- Learning Rust programming language
-- Exploring [Oxen-ai](https://docs.oxen.ai/getting-started/intro#oxen-101) 
+- Learning Rust
 - Working on System Architecture design [Recommendation search engine](https://get-out.info)
+- Building solarpunk platform: [Solar-Station](https://solar-terminal.glitch.me)
 
 ### Contact:
 - Email: [pravosnazna@gmail.com](mailto:pravosnazna@gmail.com)
